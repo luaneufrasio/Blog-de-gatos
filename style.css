@@ -7,10 +7,10 @@
 }
 
 :root {
-    --primary-color: #fff;
-    --secondary-color: #065E7C;
-    --tertiary-color: #387E96;
-    --paragraph-color: #121214;
+    --primary-color: hsl(0, 0%, 100%);
+    --secondary-color: hsl(195, 91%, 25%);
+    --tertiary-color: hsl(195, 46%, 40%);
+    --paragraph-color: hsl(240, 5%, 7%);
     font-size: 62.5%;
 }
 
